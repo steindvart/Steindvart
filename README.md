@@ -14,6 +14,7 @@ My area of interest includes `backend`, `fintech`, `DeFi`, `AI`, `knowledge tool
 
 At work, I specialize in developing core of the trading system for conducting exchange trading on the derivatives market.
 
+As an open-source developer, I enjoy contributing to the applications or libraries I use.
 
 <!-- <h4>Technology Stack</h4>
 
