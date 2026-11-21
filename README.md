@@ -14,7 +14,7 @@ My area of interest includes `AI`, `backend`, `fintech`, `DeFi`, `Data Science`,
 
 At work, I specialize in AI Engineering for development  team of the derivatives trading system.
 
-As an open-source developer, I enjoy contributing to the applications or libraries I use.
+As an open-source developer, I enjoy contributing to the projects I use.
 
 <!-- <h4>Technology Stack</h4>
 
