@@ -6,13 +6,13 @@
 
 <i>Just a human who strives to learn and create something wonderful and useful.</i>
 
-I work as a **Software Engineer** at [Moscow Exchange (MOEX)](https://www.moex.com/).
+I work as a **AI/Software Engineer** at [Moscow Exchange (MOEX)](https://www.moex.com/).
 
 I am also a alumni of School 21 - **gehnaeli**.
 
-My area of interest includes `backend`, `fintech`, `DeFi`, `AI`, `knowledge tools`, `open-source`.
+My area of interest includes `AI`, `backend`, `fintech`, `DeFi`, `Data Science`, `knowledge tools`, `open-source`.
 
-At work, I specialize in developing core of the trading system for conducting exchange trading on the derivatives market.
+At work, I specialize in AI Engineering for development  team of the derivatives trading system.
 
 As an open-source developer, I enjoy contributing to the applications or libraries I use.
 
